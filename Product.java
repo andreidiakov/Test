@@ -2,7 +2,7 @@ package Market;
 
 public class Product {
     Product() {
-        System.out.println("Prod created");
+        System.out.println("Product created");
     }
 }
 
